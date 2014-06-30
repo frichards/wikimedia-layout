@@ -87,9 +87,9 @@ a:visited{
 }
 .img {
 	display: inline-block;
-	width:160px;
-	height: 160px;
-	padding: 45px;
+	width:150px;
+	height: 150px;
+	padding: 55px;
 }
 
 .border{
